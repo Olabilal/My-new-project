@@ -1,4 +1,4 @@
-
+Detecting Strategic Anomalies in Online Poker
 Building AI Course Project - Detecting Strategic Anomalies in Online Poker
 Summary:
 This project aims to develop an AI system that analyzes poker gameplay data to detect anomalies in player strategies, particularly during betting rounds. The system will be designed to flag players whose betting patterns or card-play decisions deviate suspiciously from the statistical norm, potentially indicating cheating or collusion.
